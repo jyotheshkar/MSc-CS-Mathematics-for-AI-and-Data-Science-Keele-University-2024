@@ -2,7 +2,7 @@
 
 **Jyothesh Karnam · MSc Computer Science · Keele University · 2023/24**
 
-[![Checks](https://github.com/jyotheshkar/Mathematics-for-AI-and-Data-Science-CSC-40072-Keele-University-2024/actions/workflows/checks.yml/badge.svg)](https://github.com/jyotheshkar/Mathematics-for-AI-and-Data-Science-CSC-40072-Keele-University-2024/actions/workflows/checks.yml)
+[![Checks](https://github.com/jyotheshkar/MSc-CS-Mathematics-for-AI-and-Data-Science-Keele-University-2024/actions/workflows/checks.yml/badge.svg)](https://github.com/jyotheshkar/MSc-CS-Mathematics-for-AI-and-Data-Science-Keele-University-2024/actions/workflows/checks.yml)
 
 Worked mathematical reasoning across **linear algebra, optimisation and probability**, supported by my original coursework and a small reproducible study implementation.
 
