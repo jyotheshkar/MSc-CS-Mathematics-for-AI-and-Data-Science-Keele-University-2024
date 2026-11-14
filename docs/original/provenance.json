@@ -1,0 +1,30 @@
+{
+  "source_filename": "Maths for AI and datascience.odt",
+  "source_sha256": "953895790683e5b1e994e841cd70354ae14fd2e5107c34804d6308014ec81f38",
+  "output_filename": "student-assignment-redacted.odt",
+  "output_size": 7990754,
+  "output_sha256": "c147315cf07447cd5419f1b0322c6220f567eb4e090c18f917131651bcf727c3",
+  "redaction_date": "2026-11-14",
+  "changes": [
+    "Replaced cover student-ID paragraph with explicit redaction label.",
+    "Removed Part 1(B) personalised student-number instruction/value, matrix object and Python screenshot anchors; inserted two visible explanation paragraphs.",
+    "Retained original generic Part 1(B) NumPy discussion and all other original body elements unchanged.",
+    "Physically removed Object 42/content.xml and media/image2.png from ZIP and manifest.",
+    "Removed settings.xml to avoid local environment details.",
+    "Replaced metadata with neutral title and redaction description."
+  ],
+  "verification": {
+    "zip_integrity": true,
+    "all_xml_parses": true,
+    "full_student_id_absent": true,
+    "emails_absent_from_all_xml": true,
+    "personal_matrix_object_absent": true,
+    "personal_matrix_screenshot_absent": true,
+    "other_original_body_elements_unchanged": true,
+    "retained_body_elements": 450,
+    "equation_objects": 267,
+    "images_retained": 4,
+    "local_references_resolve": true
+  },
+  "rendering": "Structural and content-preservation checks completed. A desktop visual render was unavailable: document viewer launch failed. Original layout fidelity has not been visually verified."
+}
