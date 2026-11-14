@@ -4,7 +4,7 @@
 
 [Download my assignment — redacted ODT](student-assignment-redacted.odt)
 
-This is a public copy of Jyothesh Karnam's student-authored **Maths for AI and datascience** submission, found in the original Keele Desktop archive. The source file dates from November 2023 within academic year 2023/24. It contains linear algebra, optimisation and probability work, equations, explanatory prose, figures and Python screenshots.
+This is a public copy of Jyothesh Karnam's student-authored **Maths for AI and datascience** submission, found in the original Keele Desktop archive. The source file dates from November 2023 within academic year 2023/24. It contains linear algebra, optimisation and probability work, equations, explanatory prose, figures and Python/NumPy discussion (with the personalised screenshot redacted).
 
 The full submission is provided in editable OpenDocument format. GitHub may offer a download rather than a document preview; open it in a compatible office application. The original local file has not been overwritten.
 

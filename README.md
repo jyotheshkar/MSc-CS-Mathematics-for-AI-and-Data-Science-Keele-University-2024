@@ -18,7 +18,7 @@ The final module mark was checked against my final academic transcript, page 2, 
 
 ## Explore the work
 
-- [Original assignment and document provenance](docs/original/README.md) — my written reasoning, equations, calculations and Python screenshots, with identifier-based content redacted for publication.
+- [Original assignment and document provenance](docs/original/README.md) — my written reasoning, equations, calculations and Python/NumPy discussion (with the personalised screenshot redacted), with identifier-based content redacted for publication.
 - [Coursework walkthrough](docs/COURSEWORK.md) — what each part demonstrates and how it relates to AI and data science.
 - [Module specification and evidence](docs/MODULE.md) — official academic scope and assessment structure.
 - [Engineering decisions and verification](docs/ENGINEERING.md) — how the later implementation is bounded, tested and reproduced.
